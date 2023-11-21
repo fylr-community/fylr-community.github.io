@@ -6,4 +6,18 @@
 .page-header {
   background-color: none;
   background-image: url(https://www.arthistoricum.net/fileadmin/groups/arthistoricum/Netzwerke/fylr/header_netzwerke_fylr.png);
+  padding: 1rem 6rem;
+}
+
+.project-name {
+  background-color: white;
+  opacity: 0.85;
+  color: #606c71;
+}
+
+.project-tagline {
+  background-color: white;
+  margin-top: 0;
+  opacity: 0.85;
+  color: #606c71;
 }
