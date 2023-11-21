@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+
+.page-header {
+  background-color: none;
+  background-image: url(https://www.arthistoricum.net/fileadmin/groups/arthistoricum/Netzwerke/fylr/header_netzwerke_fylr.png);
+}
