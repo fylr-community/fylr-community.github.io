@@ -6,7 +6,8 @@ Das Netzwerk easydb/fylr-Community richtet sich an alle, die die Software easydb
 
 Zum Informationsaustausch innerhalb der easydb/fylr-Community verwenden wir eine Mailingliste und einen Rocket-Chat-Channel. Nähere Informationen finden Sie unter [auf der Netzwerkseite von arthistoricum.net](https://www.arthistoricum.net/netzwerke/fylr-community).
 
-Zur Zeit finden Sie Informationen zu folgenden Themen
+# Themen
 
  * Plugins
+ * Migration easydb - fylr
  * [3D-Visualisierung](3d)
