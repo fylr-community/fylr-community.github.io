@@ -15,3 +15,7 @@ Zum Informationsaustausch innerhalb der easydb/fylr-Community verwenden wir eine
 # Partner
 
 [![arthistoricum.net](https://www.arthistoricum.net/typo3conf/ext/slub_web_arthistoricum/Resources/Public/Images/Logos/arthistoricumLogo.svg)](https://arthistoricum.net)
+
+[![NFDI4Culture](https://nfdi4culture.de/images/nouvelle_fenetre_Desktop.png)](https://nfdi4culture.de)
+
+[![Propylaeum](https://www.propylaeum.de/fileadmin/templates/images/logo_propylaeum_de.png)](https://www.propylaeum.de)
