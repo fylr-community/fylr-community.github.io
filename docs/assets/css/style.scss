@@ -24,5 +24,6 @@
 }
 
 img[alt='arthistoricum.net'], img[alt='Propylaeum'], img[alt='NFDI4Culture'] {
-  width: 250px;
+  max-width: 250px;
+  max-height: 70px;
 }
