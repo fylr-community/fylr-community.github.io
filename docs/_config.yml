@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: easydb/fylr Community
+title: easydb/fylr-Community
 email: Maylein@ub.uni-heidelberg.de
 description: >- # this means to ignore newlines until "baseurl:"
    Das Netzwerk easydb/fylr-Community richtet sich an alle, die die Software easydb/fylr im deutschsprachigen Raum für ihre Projekte in Wissenschaft und Forschung verwenden, vom Wissens- und Erfahrungsaustausch mit der Community profitieren möchten und an der nachhaltigen Weiterentwicklung des Systems interessiert sind.
