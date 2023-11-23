@@ -11,3 +11,7 @@ Zum Informationsaustausch innerhalb der easydb/fylr-Community verwenden wir eine
  * Plugins
  * Migration easydb - fylr
  * [3D-Visualisierung](3d)
+
+# Partner
+
+[![arthistoricum.net](https://www.arthistoricum.net/typo3conf/ext/slub_web_arthistoricum/Resources/Public/Images/Logos/arthistoricumLogo.svg)](https://arthistoricum.net)
