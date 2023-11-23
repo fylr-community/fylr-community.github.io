@@ -16,6 +16,6 @@ Zum Informationsaustausch innerhalb der easydb/fylr-Community verwenden wir eine
 
 [![arthistoricum.net](https://www.arthistoricum.net/typo3conf/ext/slub_web_arthistoricum/Resources/Public/Images/Logos/arthistoricumLogo.svg)](https://arthistoricum.net)
 
-[![NFDI4Culture](https://nfdi4culture.de/images/nouvelle_fenetre_Desktop.png)](https://nfdi4culture.de)
+[![NFDI4Culture](https://nfdi4culture.de/typo3conf/ext/culture_portal/Resources/Public/Build/images/n4c-logo-black.4b9cb10d.svg)](https://nfdi4culture.de)
 
 [![Propylaeum](https://www.propylaeum.de/fileadmin/templates/images/logo_propylaeum_de.png)](https://www.propylaeum.de)
