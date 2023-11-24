@@ -6,11 +6,15 @@ layout: default
 
 # 3D-Formate
 
+## obj
+Archiv-Format, dass aus mehreren Datein besteht (Texturen werden z.B. als gesonderte Dateien abgelegt). Zwar wird das Format für die Langzeitarchivierung geeignet, aktuell ist die Verarbeitung der Dateien z.B. für ein Viewer noch nicht gelöst.
+
 ## ply
 
 ## Nexus
 
 ## gltf/glb
+Format scheint sich aktuell als defacto-Standard in der Community durchzusetzen.
 
 # Verwandte Formate
 
