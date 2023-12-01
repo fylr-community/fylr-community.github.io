@@ -13,8 +13,10 @@ Archiv-Format, dass aus mehreren Datein besteht (Texturen werden z.B. als gesond
 
 ## Nexus
 
-## gltf/glb
+## glTF/glb
 Format scheint sich aktuell als defacto-Standard in der Community durchzusetzen.
+
+Informationen rund um glTF finden sich im zugehörigen [GitHUB-Repository](https://github.com/KhronosGroup/glTF). Dort gibt es auch eine [Übersichtspost](https://www.khronos.org/files/gltf20-reference-guide.pdf)
 
 # Verwandte Formate
 
