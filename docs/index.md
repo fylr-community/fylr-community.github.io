@@ -9,7 +9,7 @@ Zum Informationsaustausch innerhalb der easydb/fylr-Community verwenden wir eine
 # Themen
 
  * [Netzwerk-Treffen](treffen)
- * Plugins
+ * [Plugins](plugins)
  * Migration easydb - fylr
  * [3D-Visualisierung](3d)
 
