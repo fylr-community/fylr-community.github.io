@@ -24,12 +24,21 @@ Das glTF-Format kann über [Extensions (siehe glTF Extension Registry)](https://
 
 # Verwandte Formate
 
-## RTI
+## RTI (Reflectance Transformation Imaging)
 
 ### Allgemein/Formatbeschreibung
 
-Eine offizielle Formatbeschreibung scheint es nicht zu geben.
-Für die Visualisierung über den JS-basierten Viewer sind die Dateien in das [Relight Format](https://vcg.isti.cnr.it/relight/#format) (Ordner mit JSON-Datei + 2D-Bilder) umgewandelt werden.
+Leider insgesamt sehr wenig bzw. nur veraltete Dokumentation zu diesen Formaten zu finden :-(
+
+Vorgänger-Format: PTM (Polynomial texture mapping):
+ * https://www.loc.gov/preservation/digital/formats/fdd/fdd000487.shtml
+ * https://en.wikipedia.org/wiki/Polynomial_texture_mapping
+ * https://cceh.github.io/rti/intro.html
+
+Formatbeschreibung:
+ * https://www.loc.gov/preservation/digital/formats/fdd/fdd000486.shtml
+
+Für die Visualisierung über den JS-basierten Viewer sind die Dateien in das [Relight Format](https://vcg.isti.cnr.it/relight/#format) (Ordner mit JSON-Datei (in früheren Versionen: XML) + 2D-Bilder) umgewandelt werden.
 
 ### Software/Viewer
 
