@@ -44,4 +44,5 @@ Für die Visualisierung über den JS-basierten Viewer sind die Dateien in das [R
 
  * Ältere Konvertiersoftware und Viewer: [https://vcg.isti.cnr.it/rti/webviewer.php](https://vcg.isti.cnr.it/rti/webviewer.php)
  * Neuere Konvertiersoftware und Viewer: [https://vcg.isti.cnr.it/relight](https://vcg.isti.cnr.it/relight)
+ * Viewer: [OpenLIME](https://github.com/cnr-isti-vclab/openlime)
 
