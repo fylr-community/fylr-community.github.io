@@ -12,6 +12,7 @@ Archiv-Format, dass aus mehreren Datein besteht (Texturen werden z.B. als gesond
 ## ply
 
 ## Nexus
+Der große Vorteil des Nexus-Formats (.nxs bzw. komprimiert als .nxz) ist es, dass verschiedene "Auflösungen" in einer Datei vorgehalten werden können. Entsprechende Viewer (z.B. 3DHOP) sind in der Lage, nur die Ausschnitte (und die Auflösungen), die sie gerade benötigen, aus der Datei zu lesen.
 
 ## glTF/glb
 Format scheint sich aktuell als defacto-Standard in der Community durchzusetzen.
